@@ -6,7 +6,8 @@
   "unity": "2020.3",
   "dependencies": {
     "com.gamemeanmachine.unity.netrose": "0.0.3",
-    "com.gamemeanmachine.unity.windrose.refmapchars": "0.0.2"
+    "com.gamemeanmachine.unity.windrose.refmapchars": "0.0.2",
+    "com.alephvault.unity.binary": "0.0.2"
   },
   "author": {
     "name": "Game Mean Machine",
