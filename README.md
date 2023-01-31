@@ -15,5 +15,14 @@ To install this package you need to open the package manager in your project and
   2. Look for this package: `com.gamemeanmachine.unity.windrose.refmapchars`.
   3. Install it.
 
+Licenses
+--------
+
+Pay attention to license notices in the readme for the following packages:
+
+ - com.gamemeanmachine.unity.windrose.refmapchars
+
+As a general rule of thumb, NEVER use any asset included in any of the Samples/ directory (in any package), since most of them were generated with tools that DO NOT allow free distribution.
+
 # Notes
 This documentation has to be updated after the big migration.
