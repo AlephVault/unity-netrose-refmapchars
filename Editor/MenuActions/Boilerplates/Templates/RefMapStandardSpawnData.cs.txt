@@ -43,20 +43,20 @@ namespace Models
 
         public RefMapBody.ColorCode? BodyColor => BodyColorCode;
         public RefMapBundle.SexCode? Sex => SexCode;
-        public Tuple<ushort, RefMapItem.ColorCode> Hair => HairPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Hat => HatPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Hair => HairPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Hat => HatPair;
         public ushort? Necklace => NecklaceIndex;
         public ushort? SkilledHandItem => SkilledHandItemIndex;
         public ushort? DumbHandItem => DumbHandItemIndex;
-        public Tuple<ushort, RefMapItem.ColorCode> Boots => BootsPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Pants => PantsPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Shirt => ShirtPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Chest => ChestPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Waist => WaistPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Arms => ArmsPair;
-        public Tuple<ushort, RefMapItem.ColorCode> LongShirt => LongShirtPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Shoulder => ShoulderPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Cloak => CloakPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Boots => BootsPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Pants => PantsPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Shirt => ShirtPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Chest => ChestPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Waist => WaistPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Arms => ArmsPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> LongShirt => LongShirtPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Shoulder => ShoulderPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Cloak => CloakPair;
         
         public void Serialize(Serializer serializer)
         {

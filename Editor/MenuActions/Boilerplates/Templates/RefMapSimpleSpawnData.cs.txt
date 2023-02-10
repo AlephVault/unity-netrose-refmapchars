@@ -35,12 +35,12 @@ namespace Models
         
         public RefMapBody.ColorCode? BodyColor => BodyColorCode;
         public RefMapBundle.SexCode? Sex => SexCode;
-        public Tuple<ushort, RefMapItem.ColorCode> Hair => HairPair;
-        public Tuple<ushort, RefMapItem.ColorCode> Hat => HatPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Hair => HairPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Hat => HatPair;
         public ushort? Necklace => NecklaceIndex;
         public ushort? SkilledHandItem => SkilledHandItemIndex;
         public ushort? DumbHandItem => DumbHandItemIndex;
-        public Tuple<ushort, RefMapItem.ColorCode> Cloth => ClothPair;
+        public Tuple<ushort, RefMapAddOn.ColorCode> Cloth => ClothPair;
         
         public void Serialize(Serializer serializer)
         {

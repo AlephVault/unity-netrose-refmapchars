@@ -1,12 +1,12 @@
 {
   "name": "com.gamemeanmchine.unity.netrose.refmapchars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Game Mean Machine - Unity - NetRose REFMAP Chars",
   "description": "A set of utilities to ease the use of REFMAP characters in NetRose.",
   "unity": "2020.3",
   "dependencies": {
     "com.gamemeanmachine.unity.netrose": "0.0.3",
-    "com.gamemeanmachine.unity.windrose.refmapchars": "0.0.2",
+    "com.gamemeanmachine.unity.windrose.refmapchars": "0.0.4",
     "com.alephvault.unity.binary": "0.0.2"
   },
   "author": {
