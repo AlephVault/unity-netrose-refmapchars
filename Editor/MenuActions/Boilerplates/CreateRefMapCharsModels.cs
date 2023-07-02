@@ -6,7 +6,7 @@ using AlephVault.Unity.MenuActions.Utils;
 using UnityEditor;
 using UnityEngine;
 
-namespace GameMeanMachine.Unity.NetRose
+namespace AlephVault.Unity.NetRose
 {
     namespace MenuActions
     {
@@ -109,7 +109,7 @@ WARNING: THIS MIGHT OVERRIDE EXISTING CODE. Always use proper source code manage
                 private static void DumpModelClasses(
                     string basename, bool useSimple, bool dumpSpawnModel, bool dumpRefreshModel
                 ) {
-                    string directory = "Packages/com.gamemeanmchine.unity.netrose.refmapchars/" +
+                    string directory = "Packages/com.alephvault.unity.netrose.refmapchars/" +
                                        "Editor/MenuActions/Boilerplates/Templates";
                     
                     TextAsset refresh = AssetDatabase.LoadAssetAtPath<TextAsset>(

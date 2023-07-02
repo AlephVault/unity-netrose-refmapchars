@@ -1,8 +1,8 @@
 using System;
 using AlephVault.Unity.Binary;
-using GameMeanMachine.Unity.WindRose.RefMapChars.Authoring.ScriptableObjects;
+using AlephVault.Unity.WindRose.RefMapChars.Authoring.ScriptableObjects;
 
-namespace GameMeanMachine.Unity.NetRose.RefMapChars
+namespace AlephVault.Unity.NetRose.RefMapChars
 {
     namespace Types
     {

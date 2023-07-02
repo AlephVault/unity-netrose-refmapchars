@@ -8,11 +8,7 @@ To install this package you need to open the package manager in your project and
      - "name": "AlephVault"
      - "url": "https://unity.packages.alephvault.com"
      - "scopes": ["com.alephvault"]
-  2. And another registry with:
-     - "name": "GameMeanMachine"
-     - "url": "https://unity.packages.gamemeanmachine.com"
-     - "scopes": ["com.gamemeanmachine"]
-  2. Look for this package: `com.gamemeanmachine.unity.windrose.refmapchars`.
+  2. Look for this package: `com.alephvault.unity.windrose.refmapchars`.
   3. Install it.
 
 Licenses
@@ -20,7 +16,7 @@ Licenses
 
 Pay attention to license notices in the readme for the following packages:
 
- - com.gamemeanmachine.unity.windrose.refmapchars
+ - com.alephvault.unity.windrose.refmapchars
 
 As a general rule of thumb, NEVER use any asset included in any of the Samples/ directory (in any package), since most of them were generated with tools that DO NOT allow free distribution.
 

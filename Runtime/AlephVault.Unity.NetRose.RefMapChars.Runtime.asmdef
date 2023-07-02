@@ -1,14 +1,12 @@
 {
-    "name": "GameMeanMachine.Unity.NetRose.RefMapChars.Editor",
+    "name": "AlephVault.Unity.NetRose.RefMapChars.Runtime",
     "rootNamespace": "",
     "references": [
-        "GUID:f90bbbab12f82970aadf435cc687514a",
-        "GUID:0c7703a0282a77d4ea0e67ece4526024",
-        "GUID:a93a021bf97a80e8eb17f8c5ca70a501"
+        "GUID:c7004f7d2caeb7f488e163a6b45f66cb",
+        "GUID:52ead2d1b68342f286e7a26b1ca7141b",
+        "GUID:42a58ae4474b45ceb8164b1eb21290ab"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

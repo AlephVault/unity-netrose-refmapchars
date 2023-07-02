@@ -1,17 +1,17 @@
 {
-  "name": "com.gamemeanmachine.unity.netrose.refmapchars",
+  "name": "com.alephvault.unity.netrose.refmapchars",
   "version": "0.0.2",
-  "displayName": "Game Mean Machine - Unity - NetRose REFMAP Chars",
+  "displayName": "Aleph Vault - Unity - NetRose REFMAP Chars",
   "description": "A set of utilities to ease the use of REFMAP characters in NetRose.",
   "unity": "2020.3",
   "dependencies": {
-    "com.gamemeanmachine.unity.netrose": "0.0.3",
-    "com.gamemeanmachine.unity.windrose.refmapchars": "0.0.4",
+    "com.alephvault.unity.netrose": "0.0.3",
+    "com.alephvault.unity.windrose.refmapchars": "0.0.4",
     "com.alephvault.unity.binary": "0.0.2"
   },
   "author": {
-    "name": "Game Mean Machine",
-    "email": "info@gamemeanmachine.com",
-    "url": "http://www.gamemeanmachine.com"
+    "name": "Aleph Vault",
+    "email": "info@alephvault.com",
+    "url": "http://www.alephvault.com"
   }
 }
